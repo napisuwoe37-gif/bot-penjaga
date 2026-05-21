@@ -1,0 +1,13 @@
+{
+  "name": "bot-penjaga-grup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^9.0.0",
+    "wa-sticker-formatter": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
